@@ -1,0 +1,11 @@
+.grade-btn{
+    border: none;
+    background-color: white;
+    height: 20px;
+    cursor:pointer;
+    margin-left: -5px;
+}
+
+.guitar-img{
+    margin-left: 10rem;
+}
